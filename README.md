@@ -5,7 +5,7 @@ Applitools Eyes Javascript SDK for working directly with images.
 
 ## Installation
 
-Run
+Install eyes.images
 
 ```bash
 npm install eyes.images --save-dev
